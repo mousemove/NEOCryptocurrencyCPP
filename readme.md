@@ -1,6 +1,6 @@
 Functions for work with cryptocurrency neo(https://neo.org/). Written in CPP
 
-I did not find a repository on working with NEO cryptocurrency on GitHub.Com coded with C / C ++, so I decided to create my own. Previously, it was all implemented using Qt, now you need to rewrite the code under STD. Here we go;)
+I did not find a repository on working with NEO cryptocurrency on GitHub.Com coded with C / C ++, so I decided to create my own. Previously, it was all implemented using Qt+libbitcoin, now you need to rewrite the code under STD. Here we go;)
 
 
 Now u can use function accountByWIF(std::string wif) for take account data, example:
