@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : NEO.cpp
-// Author      : Alab
-// Version     :
-// Copyright   : (c) github.com/mousemove
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
 #include <iostream>
 #include "functions.h"
 using namespace std;
